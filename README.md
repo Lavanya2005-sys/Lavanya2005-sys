@@ -1,4 +1,4 @@
-a<h1 align="center">Hi 👋, I'm Lavanya Gurrampati</h1>
+<h1 align="center">Hi 👋, I'm Lavanya Gurrampati</h1>
 
 ## About me :mortar_board:
 I am a student, currently studying at Vellore Institute of Technology. 🧠
