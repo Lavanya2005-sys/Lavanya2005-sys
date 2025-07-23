@@ -89,8 +89,8 @@ I am a student, currently studying at Vellore Institute of Technology. 🧠
 
 
 ## Reach me 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-ganesh-golla-495a95279/) 
-[![Mail](https://img.shields.io/badge/-lavanya.gurrampati5@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/bala-ganesh-golla-495a95279/)](mailto:lavanya.gurrampati5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavanya-gurrampati-1766b2251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![Mail](https://img.shields.io/badge/-lavanya.gurrampati5@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/lavanya-gurrampati-1766b2251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](mailto:lavanya.gurrampati5@gmail.com)
 
 
 Thanks!!
