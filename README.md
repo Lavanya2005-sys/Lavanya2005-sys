@@ -100,6 +100,6 @@ Thanks!!
 
 
 <!---
-Balaganesh Golla/Balaganesh Golla is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+Lavanya Gurrampati/Lavanya Gurrampati is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
